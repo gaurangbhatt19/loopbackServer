@@ -1,12 +1,12 @@
 {
   
   "db": {
-    "host": "localhost",
+    "host": "127.0.0.1",
     "port": 27017,
-    "url": "mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb",
+    "url": "",
     "database": "meetupz",
     "password": "",
-    "name": "mongoDS",
+    "name": "db",
     "user": "",
     "useNewUrlParser": true,
     "connector": "mongodb"
